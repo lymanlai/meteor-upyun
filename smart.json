@@ -1,0 +1,9 @@
+{
+  "name": "upyun",
+  "description": "Upload files to Upyun.com. Only Server-Side",
+  "homepage": "",
+  "author": "Janpo janpo.pan@gmail.com",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {}
+}
