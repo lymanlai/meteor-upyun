@@ -4,6 +4,6 @@
   "homepage": "https://github.com/janpo/meteor-upyun",
   "author": "Janpo janpo.pan@gmail.com",
   "version": "0.0.1",
-  "git": "git@github.com:janpo/meteor-upyun.git",
+  "git": "https://github.com/janpo/meteor-upyun.git",
   "packages": {}
 }
