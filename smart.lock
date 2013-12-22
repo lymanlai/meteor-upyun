@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "upyun": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "upyun": {
+        "path": "."
+      }
+    }
+  }
+}
